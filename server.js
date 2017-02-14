@@ -20,7 +20,9 @@ app.use(favicon(__dirname + '/public/favicon.ico'));
 
 
 
-// Start database, then start server
+
+// once the system is loaded...
+// Start database, if successful start app server
 
 db.connect(config.connstr, function (err){
   if(err){
