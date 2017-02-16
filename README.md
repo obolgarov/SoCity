@@ -1,2 +1,1 @@
-# SoCity
-SoCity is a free website/application that helps users find places and activities in the city they’re based.
+A template I occasionally use to create a file structure for new node projects
